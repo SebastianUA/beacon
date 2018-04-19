@@ -1,0 +1,5 @@
+gitdb==0.6.4
+ordereddict==1.1
+py3==1.0.1
+gitconfigparser-0==0.0.16
+beacon==1.0.0
